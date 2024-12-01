@@ -1,0 +1,102 @@
+# **React Native**
+
+# Node modules
+/node_modules/
+
+# Typescript cache
+*.tsbuildinfo
+
+# Metro bundler cache
+/.metro/
+ 
+# Temporary cache
+/tmp/
+ 
+# Yarn Integrity file
+.yarn-integrity
+
+# Expo (if used)
+.expo/
+.expo-shared/
+ 
+# Misc
+*.log
+*.lock
+*.swp
+.DS_Store
+
+# **Android**
+
+# Gradle files
+.gradle/
+build/
+**/build/
+ 
+# Android Studio
+.idea/
+*.iml
+*.hprof
+ 
+# Local configuration file (sdk paths, etc.)
+local.properties
+ 
+# Keystore files
+*.jks
+*.keystore
+ 
+# Generated files
+*.apk
+*.ap_
+*.aab
+ 
+# Google Services
+google-services.json
+ 
+# NDK
+obj/
+*.so
+ 
+# **iOS** (Optional if you’re also targeting iOS)
+# Uncomment the following lines if you have iOS in your project
+ 
+# build/
+# ios/build/
+# ios/Pods/
+# *.pbxuser
+# !default.pbxuser
+# *.mode1v3
+# !default.mode1v3
+# *.mode2v3
+# !default.mode2v3
+# *.perspectivev3
+# !default.perspectivev3
+# xcuserdata/
+# *.xccheckout
+# *.xcodeproj/*
+# !*.xcodeproj/project.pbxproj
+# !*.xcodeproj/xcshareddata/
+# !*.xcodeproj/xcshareddata/**
+
+# **Other Configuration Files**
+
+# Environment variables
+.env
+.env.* 
+ 
+# VS Code
+.vscode/
+*.code-workspace
+ 
+# Optional: Ignore IDE specific folders
+# IntelliJ
+*.idea/
+*.iml
+*.iws
+ 
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# **Custom Additions**
+
+# Add any other files or directories you want to ignore below
